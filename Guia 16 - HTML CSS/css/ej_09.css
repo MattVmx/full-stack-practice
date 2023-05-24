@@ -1,0 +1,58 @@
+
+h1{
+  color: #47A774;
+
+}
+
+strong{
+  color: red;
+}
+
+.destacado{
+  color: orange;
+}
+
+h2 {
+  color: blue;
+}
+
+a{
+  color: red;
+}
+
+p em{
+  color: blue;
+}
+
+.especial{
+  color: purple;
+}
+
+table .especial{
+  color: orange;
+  border: 1;
+}
+
+tbody{
+  color: green;
+}
+
+tr strong{
+  color: orange;
+}
+
+th{
+  color: red;
+}
+
+#adicional {
+  color: #93A13B;
+}
+
+#especial{
+  color: #DA26E0;
+}
+
+a:last-child{
+  color: green;
+}

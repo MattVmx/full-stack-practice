@@ -1,0 +1,31 @@
+
+table{
+  border-spacing: 0;
+  font-family: 'Arial'
+}
+
+th, td{
+  padding: 7px;
+  border: 1px solid #333;
+  border-spacing: 0;
+  text-align: center;
+}
+
+img{
+  padding-right: 5px;
+  margin-left: 5px;
+}
+
+.gris{
+  background-image: url('../imagenes/fondo_gris.gif');
+}
+
+.alterno{
+  background-color: #FFFFCC;
+}
+
+#moneda{
+  background-color: #E6F3FF;
+  padding-left: 0px;
+  text-align: left;
+}
